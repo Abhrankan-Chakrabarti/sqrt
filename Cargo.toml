@@ -4,9 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-anyhow = "1.0.97"
+anyhow = "1.0.98"
 
 [dependencies.malachite]
-version = "0.5.1"
+version = "0.6.0"
 default-features = false
 features = ["malachite-nz", "naturals_and_integers"]
